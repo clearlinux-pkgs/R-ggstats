@@ -7,7 +7,7 @@
 #
 Name     : R-ggstats
 Version  : 0.6.0
-Release  : 4
+Release  : 5
 URL      : https://cran.r-project.org/src/contrib/ggstats_0.6.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/ggstats_0.6.0.tar.gz
 Summary  : Extension to 'ggplot2' for Plotting Stats
